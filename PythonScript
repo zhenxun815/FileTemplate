@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+#set($MyName = "Yiheng")
+#set($MyEmail = "GuoYiheng89@gmail.com")
+# @Description: $desc
+# @File: ${NAME}.py
+# @Project: ${PROJECT_NAME}
+# @Author: $MyName
+# @Email: $MyEmail
+# @Time: ${DATE} ${TIME}
+${END}
